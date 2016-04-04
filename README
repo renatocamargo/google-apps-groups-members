@@ -1,6 +1,8 @@
 Objetivo
+Listar grupos e membros do Google Apps
 
 Linguagem usada
+Shell Script
 
 Pré-requisitos
-
+GAM (Google Apps Manager)
