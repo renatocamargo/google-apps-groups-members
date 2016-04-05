@@ -1,5 +1,5 @@
 Objetivo
-Listar grupos e membros dos grupos do Google Apps
+Listar grupos e seus respectivos membros do Google Apps
 
 Linguagem usada
 Shell Script
@@ -7,5 +7,11 @@ Shell Script
 Pré-requisitos
 GAM (Google Apps Manager)
 
+Para instalação: 
+https://github.com/jay0lee/GAM/wiki
+
+Para configuração conforme link abaixo:
+https://github.com/jay0lee/GAM/wiki/CreatingClientSecretsFile
+
 Sistema Operacional
-Linux (Ubuntu 14.04)
+Linux
